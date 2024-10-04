@@ -61,10 +61,10 @@
   <a href="https://linkedin.com/in/hriteek-roy-4215091a4" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="https://x/RoyHriteek" target="_blank">
+  <a href="https://x.com/RoyHriteek" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
   </a>
-  <a href="https://discord.com/users/yourprofile" target="_blank">
+  <a href="https://discord.com/users/htrikx" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
   </a>
 </div>
