@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hriteek Roy and I'm a Jr. Data Scientist.</h2>
+<h2 align="left">Hi 👋! My name is Hriteek Roy and I'm a Data Scientist.</h2>
 
 ###
 
